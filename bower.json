@@ -1,0 +1,25 @@
+{
+  "name": "iis-project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/auchytil/iis-project",
+  "authors": [
+    "AwesomeBertisek <albert.uchytil@windowslive.com>"
+  ],
+  "description": "School project for Information Systems class",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-material": "~0.11.2",
+    "angular-ui-router": "~0.2.15"
+  }
+}

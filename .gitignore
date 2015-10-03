@@ -1,0 +1,15 @@
+# Ignore list for our project IIS2015 #
+# Directories #########################
+###############
+/static/bower_components/
+/static/scripts/
+/static/styles/
+/node_modules/
+/.sass-cache/
+/static/style/
+
+#    Files    #
+###############
+*.js
+*.css
+*.log
